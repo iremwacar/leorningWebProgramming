@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Irem Acar",
+        "department":"Bilişim",
+        "salary":"35000"
+    },
+    {
+        "name":"Ibrahim Bozkurt",
+        "department":"Inşaat",
+        "salary":"75000"
+    },
+    {
+        "name":"Hilal Acar",
+        "department":"Bilişim",
+        "salary":"40000"
+    }
+]
